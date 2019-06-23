@@ -34,7 +34,6 @@ public class MainApplication extends Application implements ReactApplication {
           new RNFirebaseMessagingPackage() // <-- Add this line
       );
     }
-  };
   // ...
 }
 ```
